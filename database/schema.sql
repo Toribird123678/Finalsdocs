@@ -1,6 +1,3 @@
-CREATE DATABASE IF NOT EXISTS google_docs_clone;
-USE google_docs_clone;
-
 -- Users table
 CREATE TABLE users (
     id INT PRIMARY KEY AUTO_INCREMENT,
